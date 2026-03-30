@@ -1,0 +1,10 @@
+{
+    "model": "mlx-community/gemma-2-9b-it-4bit",
+    "fine_tune_type": "lora",
+    "num_layers": 16,
+    "lora_parameters": {
+        "rank": 8,
+        "dropout": 0.0,
+        "scale": 20.0
+    }
+}

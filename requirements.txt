@@ -1,0 +1,3 @@
+mlx>=0.22
+mlx-lm>=0.22
+huggingface-hub>=0.20
